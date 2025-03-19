@@ -1,7 +1,7 @@
 ## Olá 👋
 
 - 🔭 Atualmente não estou trabalhando
-- 🌱 Atualmente estou aprendendo lógica de programação
+- 🌱 Atualmente estou redirecionando meu aprendizado expecificamente para NodeJs
 - 📫 Como entrar em contato comigo: danyelalbuquerquefilho@gmail.com
 
 ## Ferramentas e Tecnologias
